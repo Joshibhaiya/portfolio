@@ -1,0 +1,36 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+.logo-css{
+    margin: -5px;
+    width: 95px;
+    height: 80px;
+    border-radius: 65px;
+}
+.navbar{
+    background-color: #F6DDCC;
+}
+.navbar .navbar-nav .nav-item a{
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 20px;
+    font-family: 'Lobster', cursive;
+    letter-spacing: 5px;
+    color: #b89090;
+}
+.centered {
+	position: absolute;
+	top: 50%;
+	left: 68%;
+	transform: translate(-50%, -50%);
+  }
+.bannerh1{
+	color: #fff;
+	font-size: 60px;
+	font-family: 'Style Script', cursive;
+
+}
+
+
